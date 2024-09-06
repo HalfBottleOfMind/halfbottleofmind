@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
 <h3 align="center">PHP developer</h3>
 
-- 🔭 I’m currently working on [Grow Food](https://growfood.pro/)
-
 - 🌱 I’m currently learning **Golang and OpenGL**
 
 - 📫 How to reach me **andromalak222@gmail.com**
